@@ -53,7 +53,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushsingh7982&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushsingh7982&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -65,7 +73,23 @@
 
 ---
 
-## 🌐 Connect with Me
+## 📊 Code Time Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayushsingh7982&bg_color=1F1F1F&color=F7A72D&line=27D6FF&point=FFFFFF&area=true&hide_border=true" alt="Code Activity Graph" />
+</p>
+
+---
+
+## 🌍 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushsingh7982&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
+</p>
+
+---
+
+## 📫 Connect with Me
 
 <p align="left">
   <a href="https://ayushsingh7982.github.io/Portfolio_New/" target="_blank">
