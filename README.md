@@ -97,18 +97,37 @@
 ## 📫 Connect with Me
 
 <p align="left">
+  <!-- Portfolio -->
   <a href="https://ayushsingh7982.github.io/Portfolio_New/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ayushsingh7982/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ayushsingh7982@gmail.com" target="_blank">
+
+  <!-- Email -->
+  <a href="mailto:singhayush8376@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/1kBffWjGogN7siO8v5qjrPa3xGiw-TqP_/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%2300C851.svg?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/ayush8285" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/ayyushssingh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
 
 > 🧠 _“Consistency > Perfection”_
 
