@@ -80,8 +80,9 @@
 ## 📊 Code Time Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayushsingh7982&bg_color=1F1F1F&color=F7A72D&line=27D6FF&point=FFFFFF&area=true&hide_border=true" alt="Code Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsingh7982&theme=vue&area=true&hide_border=true" alt="Ayush's GitHub Activity Graph" />
 </p>
+
 
 ---
 
