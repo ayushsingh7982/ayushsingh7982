@@ -96,7 +96,7 @@
 
 <p align="left">
   <!-- Portfolio -->
-  <a href="https://ayushsingh7982.github.io/Portfolio_New/" target="_blank">
+  <a href="https://ayushportfolio-ab80.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=22" />
   </a>
 
